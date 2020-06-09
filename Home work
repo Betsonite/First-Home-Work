@@ -1,0 +1,10 @@
+int carSpeed;
+int bookPrice;
+string petName;
+string month;
+string greetings;
+bool isVisible;
+bool hasChildren;
+float distance;
+float radius;
+char sex;
